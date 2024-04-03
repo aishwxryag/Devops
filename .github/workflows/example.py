@@ -1,7 +1,3 @@
-#def main():
-#  print("Workflow successful!")
-#if __name__=='__main__':
-#  main()
 import random
 
 SUITS = ['Hearts', 'Diamonds', 'Clubs', 'Spades']
